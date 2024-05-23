@@ -3,3 +3,5 @@ io
 PIL
 matplotlib
 seaborn
+requests
+tempfile
